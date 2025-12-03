@@ -41,7 +41,8 @@ This repository highlights my ability to build game systems, optimize performanc
 
 A short gameplay video will be added here:
 
-> *(Video coming soon — will be embedded or linked once uploaded)*
+
+https://github.com/user-attachments/assets/38e3dbee-501e-4bfe-91ec-17e8ffaa6632
 
 ---
 
